@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:bmi_calculator/screens/input_page.dart';
 import 'package:bmi_calculator/constants.dart';
+//Added comment here
 
 void main() => runApp(const MyApp());
 
@@ -31,7 +32,7 @@ class _BmiCalculatorState extends State<BmiCalculator> {
       ),
       initialRoute: '/',
       routes: {
-        '/': (context) =>const InputPage(),
+        '/': (context) => const InputPage(),
       },
     );
   }
