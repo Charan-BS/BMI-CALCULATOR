@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:bmi_calculator/screens/input_page.dart';
 import 'package:bmi_calculator/constants.dart';
 //Added comment here
+//Added another comment
 
 void main() => runApp(const MyApp());
 
