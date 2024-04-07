@@ -4,7 +4,9 @@ import 'package:bmi_calculator/constants.dart';
 //Added comment here
 //Added another comment
 
-void main() => runApp(const MyApp());
+void main() => runApp(
+      const MyApp(),
+    );
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
